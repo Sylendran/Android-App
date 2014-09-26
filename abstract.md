@@ -11,6 +11,7 @@ Group members:
 3.Naresh
 4.Raghavendra M Dani  
 5.Azeem 
+6.Surya Vamshi
 Resources and Materials required:
   ->One or more CSI senior member/s as a mentor to guide us in this project who has previous  experience in android app development  
   ->Eclipse with adt plug in and anroid sdk from Google   
